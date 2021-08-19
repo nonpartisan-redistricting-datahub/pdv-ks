@@ -33,7 +33,7 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 - File: Precinct Level Election results, 2020
   - Date accessed: 7/16/2021
   - Link: https://sos.ks.gov/elections/elections-statistics.html
-  - Note: VEST directs us to this website link, however the precinct-level results are not available online. We called 800-262-VOTE(8683) and were directed to email Bryan Caskey (bryan.caskey@ks.gov) to request the precinct-level results. We emailed on 7/16/2021. 
+  - Note: VEST directs us to this website link, however the precinct-level results are not available online. We called 800-262-VOTE(8683) and were directed to email Bryan Caskey (bryan.caskey@ks.gov) to request the precinct-level results. We emailed on 7/16/2021. No response as of 8/16/2021. 
 - File: Geary County Shapefile
   - Date accessed: 7/16/2021
   - Link: https://www.gearycounty.org/1312/Polling-Locations
