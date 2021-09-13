@@ -27,7 +27,7 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
   - Link: https://sos.ks.gov/elections/elections-results.html
 - File: Precinct Level Election results for Wyandotte, Johnson, Sedgwick, and Shawnee Counties, 2016
   - Date accessed: 9/7/2021
-  - Link: https://raw.githubusercontent.com/openelections/openelections-data-ks/master/2016/20161106__ks__general__precinct.csv
+  - Link: https://github.com/openelections/openelections-data-ks/tree/master/2016/counties
 
 
 ### Inaccessible files:
