@@ -1,6 +1,6 @@
 # vest-ks-2020
 
-Our final election results validation report for this dataset is available [here](https://redistrictingdatahub.org/dataset/vest-2020-kansas-precinct-and-election-results/).
+Our final election results validation report for this dataset is available [here](https://redistrictingdatahub.org/dataset/vest-2020-kansas-precinct-boundaries-and-election-results-shapefile/).
 
 We do not have the raw data sources available on this Github due to file constraints, but we are happy to share them if needed. 
 
