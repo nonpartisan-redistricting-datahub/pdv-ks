@@ -10,7 +10,7 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 
 RDH's partner data validation for VEST's 2020 KS file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?fileId=4749664&datasetVersionId=251765).
 
-RDH's election result validation report is available [here](https://redistrictingdatahub.org/dataset/vest-2020-kansas-precinct-and-election-results/). To request a full validation report, please email info@redistrictingdatahub.org. 
+RDH's election result validation report is available [here](https://redistrictingdatahub.org/dataset/vest-2020-kansas-precinct-boundaries-and-election-results-shapefile/). To request a full validation report, please email info@redistrictingdatahub.org. 
 
 ## vest-ks-2018
 
