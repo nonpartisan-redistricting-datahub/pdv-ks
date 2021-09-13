@@ -8,23 +8,17 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 
 ## vest-ks-2020
 
-[In progress]
-
 RDH's partner data validation for VEST's 2020 KS file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?fileId=4749664&datasetVersionId=251765).
 
 RDH's election result validation report is available [here](https://redistrictingdatahub.org/dataset/vest-2020-kansas-precinct-and-election-results/). To request a full validation report, please email info@redistrictingdatahub.org. 
 
 ## vest-ks-2018
 
-[In progress]
-
 RDH's partner data validation for VEST's 2018 KS file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?fileId=4302290&datasetVersionId=251384).
 
 RDH's election result validation report is available [here](https://redistrictingdatahub.org/dataset/vest-2018-kansas-precinct-and-election-results/). To request a full validation report, please email info@redistrictingdatahub.org. 
 
 ## vest-ks-2016
-
-[In progress]
 
 RDH's partner data validation for VEST's 2016 KS file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?fileId=4749662&datasetVersionId=252739).
 
